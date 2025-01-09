@@ -1,0 +1,41 @@
+{
+  "team": [
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Salman Khan",
+      "profission": "Data Architect",
+      "location": "MDP from IIMK | CS from CUSAT | Strategizing & developing different products for past 6 years."
+    },
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Fariz Rahman",
+      "profission": "AI & ML Expert",
+      "location": "Keras Team Member | Researcher | Google Developer Expert in ML"
+    },
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Ibrahim",
+      "profission": "Robotics Engineer",
+      "location": "B.Tech in Computer Science | Former Robotics Engineer in Sastra Robotics."
+    },
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Dr. Abdullah Kammani",
+      "profission": "Knowledge & Data Strategist",
+      "location": "Former Assistant Professor at Taif University, KSA | PhD in Knowledge Management"
+    },
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Swapna Menon",
+      "profission": "Data Scientist",
+      "location": "Bioinformatics Consultant | MS in Molecular Sciences | M. Phil in Bioinformatics | Specializes in NGS Data Analyses & Biocuration"
+    },
+    {
+      "img": "/imagesCustom/team/profile.webp",
+      "name": "Dr. Rahmath Safeena",
+      "profission": "Lecture & Researcher of AI",
+      "location": "Former Lecturer at Computer Engineering Department, Taif University Embedded Systems, Robotics, IoT"
+    }
+    
+  ]
+}
